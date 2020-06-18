@@ -1,0 +1,14 @@
+body {
+  background-color: bisque;
+}
+#item {
+  padding: 20px 30px;
+  font-size: 100%;
+}
+
+.pick {
+  margin: 100px 300px 0px 300px;
+  padding: 15px 50px;
+  border: 100px solid red;
+  border-radius: 10px 30px 20px 15px;
+}
